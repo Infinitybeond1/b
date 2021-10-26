@@ -1,0 +1,22 @@
+{
+  "token": "ODc1MTQ4OTc2MjcyMzQzMDQx.YRRT_w.WanritUkrLT8UVTIFUkPu-nDogs",
+  "prefix": "!",
+  "loadSlashsGlobal": false, "_COMMENT_": "Set it to true, when your Slash Commands are ready, false loads instant true loads slow but stable! (GLOBAL/GUILD COMMANDS, DISCORD DOCS!)",
+  "slashCommandsDirs": [
+        {
+                "Folder": "Info",
+                "CmdName": "info",
+                "CmdDescription": "Get various bot info"
+        },
+        {
+                "Folder": "Moderation",
+                "CmdName": "moderation",
+                "CmdDescription": "Moderate the Server!"
+        },
+        {
+                "Folder": "Owner",
+                "CmdName": "owner",
+                "CmdDescription": "Only Luke can use these"
+        }
+   ]
+}
